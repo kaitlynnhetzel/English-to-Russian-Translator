@@ -1,0 +1,6 @@
+﻿In the park,в парке,v parke
+Quickly,быстро,buistro
+Slowly,медленно,medlenno
+Everywhere,везде,vezde
+On the street,на улицу,na ulitsu
+With me,со мной,so mnoi

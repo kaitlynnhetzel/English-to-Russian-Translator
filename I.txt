@@ -1,0 +1,8 @@
+﻿Know,знаю,znaiyoo,To know,знать,znat
+See,вижу,vizhu,To see,видеть,Vidyet
+Love,люблю,lubliu,To love,любить,Lubeet
+Speak,говорю,govoriu,To speak,говорить,Govoreet
+Watch,смотрю,smotriu,To watch,смотреть,Smotryet
+Read,читаю,cheetayu,To read,читать, Cheetat
+Study,учусь,uchus,To study,учиться,Uchitcya
+Live,живу,zhivu,To live,жить,Zhit

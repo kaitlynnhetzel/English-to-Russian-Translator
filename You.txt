@@ -1,0 +1,8 @@
+﻿Know,знаешь,znaiyesh,To know,знать,znat
+See,видешь,videsh,To see,видеть,Vidyet
+Love,любишь,lubish,To love,любить,Lubeet
+Speak,говоришь,govorish,To speak,говорить,Govoreet
+Watch,смотришь,smotrish,To watch,смотреть,Smotryet
+Read,читаешь,cheetayesh,To read,читать, Cheetat
+Study,изучаешь,izuchaesh,To study,учиться,Uchitcya
+Live,живёшь,zhivyosh,To live,жить,Zhit

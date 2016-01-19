@@ -1,0 +1,6 @@
+﻿Loves,любит,lubit,To love,любить,Lubeet
+Eats,ест,yeys,To eat,есть,yect
+Drinks,пьет,pyet,To drink,пить,Peet
+Runs,бежит,bezhit,To run,бежать,Bezhat
+Plays,играет,igrayet,To play,играть,Igrat
+Sleeps,спит,speet,To sleep,спать,Spaht

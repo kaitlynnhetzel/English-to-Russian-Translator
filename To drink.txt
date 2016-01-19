@@ -1,0 +1,6 @@
+﻿Water,воду,vodu
+Milk,молоко,moloko
+Vodka,водку,vodku
+Everything,все,vse
+Out of the toilet,из туалета,iz tualeta
+Blood,кровь,krov

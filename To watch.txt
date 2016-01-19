@@ -1,0 +1,6 @@
+﻿Sports,спорт,sport
+Television,телевизор,televisor
+Movies,фильмы,filmi
+Operas,оперы,operi
+The grass grow,как трава растет,kak trava ractyet
+Youtube videos,Youtube видео,Youtube videyo

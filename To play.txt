@@ -1,0 +1,7 @@
+﻿Outside,за пределами,za predelami
+In the water,в воде,v vode
+In the park,в парке,v parke
+A lot,много,mnogo
+Sometimes,иногда,inogda
+With the children,с детьми,s detmi
+

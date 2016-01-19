@@ -1,0 +1,6 @@
+﻿Books,книги,knigi
+Poems,стихи,stihi
+Letters,письма,pisma
+Russian fairy tales,русских сказок,ruskiih skazok
+A lot,много,mnoga
+Newspapers,газеты,gazeti

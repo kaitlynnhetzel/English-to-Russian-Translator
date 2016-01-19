@@ -1,0 +1,6 @@
+﻿Fish,рыбу,ribu
+Meat,мясо,myaco
+Poultry,птицу,ptitsu
+Food,еду,yedu
+Everything,всe,vse
+In the kitchen,на кухне,na kukhne

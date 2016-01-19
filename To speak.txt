@@ -1,0 +1,6 @@
+﻿English,по-английски,po anglieskii
+Russian,по-русский,po ruskii
+French,по-французски,po fransuizski
+German,по-немецки,po nemetski
+Italian,по-итальянски,po italyanski
+Japanese,по-японски,po yaponski

@@ -1,0 +1,12 @@
+﻿Hi!,Привет!,Privyet!,
+Goodbye!,До Свидания!,Da Svidaniya!,
+Please?,Пожалуйста?,Pozhaluysta?,
+Thank you!,Спасибо!,Spasibo!,
+You're welcome!,Пожалуйста!,Pozhaluysta!,
+My name is...,Меня зовут...,Menya zovut...,
+What is your name?,Как тебя зовут?,Kak tebya zovut?,
+How are you?,Как дела?,Kak dela?,
+Good!,Xорошо!,Harasho!,
+Bad,Плохо,Ploho,
+Good morning!,доброе утро!,Dobrae Ootra!, 
+Good evening!,добрый вечер!,Dobree Vecher!

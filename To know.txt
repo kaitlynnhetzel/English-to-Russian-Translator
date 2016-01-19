@@ -1,0 +1,7 @@
+﻿You,тебя,tebya
+Him,его,yevo
+Her,ее,yeyo
+John,Джон,Djon
+Catherine,Екатерину,Yekaterinu
+the Russian language,русский язык,ruskii yazik
+

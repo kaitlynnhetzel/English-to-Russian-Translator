@@ -1,0 +1,6 @@
+﻿Computer Science, информатику, informatiku
+Biology,биологию,biologiyu 
+Chemistry,химию,himiyu 
+Math,математику,matematiku
+Literature,литературу,literaturu
+Russian language,русский язык,ruski yazik

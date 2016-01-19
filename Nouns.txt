@@ -1,0 +1,13 @@
+﻿I,я,Ya,
+You,ты,Ti,   
+He,oн,Ohn,  
+She,oнa,Ona,    
+It, oнo,Ono,   
+We,мы,Mi,    
+Y'all,вы,Vi,     
+They,oни,Oni,   
+The dog,Cобака,Sobaka,
+The cat,Kот,Kot,
+John, Джон, Djon,
+Catherine,Екатерина,Yekaterina,
+

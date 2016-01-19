@@ -1,0 +1,6 @@
+﻿You,тебя,tebya
+John,Джона,Djona
+Catherine,Екатерину,Yekaterinu
+Pizza,пиццу,pitsu
+Music,музыку,musiku
+Computers,компьютеры,kompiuteri
